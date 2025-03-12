@@ -9,22 +9,27 @@ h1 {
 }
 
 .salute {
-    height: 100vh;
-    display: flex;
+  height: 100vh;
+  display: flex;
+}
+
+.saluteText {
+  color: #333;
+  font-size: 60vw;
 }
 
 .container {
-    background-color: black;
+  background-color: black;
 }
 
 .saluteImg {
-    width: 100vh;
+  width: 100%;
 }
 
 .saluteTextContainer {
-    flex: 3;
+  flex: 3;
 }
 
 .saluteImageContainer {
-    flex: 1;
+  flex: 1;
 }
