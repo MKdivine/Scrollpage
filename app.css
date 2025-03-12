@@ -4,18 +4,16 @@
   font-family: "Open Sans", sans-serif;
 }
 
-h1 {
-  font-family: "Open Sans", sans-serif;
-}
-
 .salute {
   height: 100vh;
   display: flex;
+  align-items: center;
 }
 
 .saluteText {
   color: #333;
   font-size: 60vw;
+  cursor: default;
 }
 
 .container {
