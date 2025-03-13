@@ -8,6 +8,7 @@
   height: 100vh;
   display: flex;
   align-items: center;
+  overflow: hidden;
 }
 
 .saluteText {
@@ -30,4 +31,34 @@
 
 .saluteImageContainer {
   flex: 1;
+}
+
+.nameContainer {
+  height: 100vh;
+  background-color: blueviolet;
+}
+
+.name {
+  font-size: 20vw;
+  color: #333;
+  cursor: default;
+  line-height: 100vh;
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+.jobTitleContainer {
+  height: 100vh;
+  background-color: blueviolet;
+}
+
+.dark {
+  background: url(./images/hemp.webp);
+  background-size: cover;
+}
+
+.light {
+  background: url(images/PC2.jpg);
+  background-size: cover;
+  
 }
