@@ -58,7 +58,8 @@
 }
 
 .light {
-  background: url(images/PC2.jpg);
+  background: blue url(images/mac.webp);
   background-size: cover;
+ 
   
 }
