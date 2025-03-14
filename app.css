@@ -53,12 +53,21 @@
 }
 
 .dark {
-  background: url(./images/hemp.webp);
-  background-size: cover;
+  background-color: black;
+  background-image: url(./images/hemp.webp);
+ 
 }
 
-.light {
-  background: url(images/PC2.jpg);
-  background-size: cover;
-  
+
+.purple {
+  background: blueviolet url(./images/PC2.jpg);
+
+}
+
+
+.jobTitle {
+  font-size: 5vw;
+  color: #333;
+  cursor: default;
+  line-height: 100vh;
 }
