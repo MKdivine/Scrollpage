@@ -71,3 +71,10 @@
   cursor: default;
   line-height: 100vh;
 }
+.projects {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  padding: 0px 100px;
+}
