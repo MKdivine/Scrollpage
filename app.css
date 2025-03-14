@@ -55,15 +55,11 @@
 .dark {
   background-color: black;
   background-image: url(./images/hemp.webp);
- 
 }
-
 
 .purple {
   background: blueviolet url(./images/PC2.jpg);
-
 }
-
 
 .jobTitle {
   font-size: 5vw;
